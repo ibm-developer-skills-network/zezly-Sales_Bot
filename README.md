@@ -1,5 +1,4 @@
-```
-python3.11 -m pip install langchain    
+```   
 python3.11 -m pip install llama_index
 python3.11 -m pip install gradio
 ```
